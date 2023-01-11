@@ -1,1 +1,2 @@
-console.log("dsds")
+console.log("dsdsвывывы")
+alert();

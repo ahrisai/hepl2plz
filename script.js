@@ -1,2 +1,7 @@
+
 console.log("dsdsвывывы")
-alert();
+
+
+console.log("dsds");
+console.log('Тут поможет эвтоназия!');
+

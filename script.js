@@ -1,6 +1,5 @@
-
 console.log("dsdsвывывы")
-
+console.log("я все понял УРААААА");
 
 console.log("dsds");
 console.log('Тут поможет эвтоназия!');
